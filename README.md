@@ -1,16 +1,20 @@
-## Hi there 👋
+# ✨Intro
+***
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyomyeon&show_icons=true&theme=tokyonight)
 
-<!--
-**leeyomyeon/leeyomyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyomyeon&theme=gruvbox)
+***
+## Training Courses
+* SSAFY 5th(2021.1 ~ 2021.8)
 
-Here are some ideas to get you started:
+## Career
+* Full Stack Developer(2021.9 ~ 현재)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+* Programming Language : Java(Intermediate), C++(Novice), Python(Novice)
+* Framework : Spring Boot, React
+* Database : Mysql
+
+## Other
+* [**BOJ**](https://www.acmicpc.net)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=siyamaki)](https://solved.ac/siyamaki)
