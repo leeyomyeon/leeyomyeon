@@ -14,8 +14,3 @@
 * Programming Language : Java(Intermediate), C++(Novice), Python(Novice)
 * Framework : Spring Boot, React
 * Database : Mysql
-
-## Other
-* [**BOJ**](https://www.acmicpc.net)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=siyamaki)](https://solved.ac/siyamaki)
